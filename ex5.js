@@ -1,8 +1,8 @@
 $.backstretch([
           "images/water.jpg",
-          "images/lights.jpg",
+          "images/lights.JPG",
           "images/subway.jpg",
-          "images/park.jpg"
+          "images/park.JPG"
         ], {
             fade: 750,
             duration: 4000
